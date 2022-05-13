@@ -1,6 +1,5 @@
 // Modularización y Métodos -CLASE 6- viernes 6 de mayo
-// MÉTODOS
-//Ejercicio ONLINE: Triángulos
+// MÉTODOS - Ejercicio ONLINE: Triángulos
 
 /* 
 • Realice un programa que devuelva el área del triángulo usando los siguientes pares de base-altura:
